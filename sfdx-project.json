@@ -7,6 +7,6 @@
   ],
   "name": "LWCSuperbadge",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "http://brave-hawk-6c272a-dev-ed.my.salesforce.com",
   "sourceApiVersion": "51.0"
 }
