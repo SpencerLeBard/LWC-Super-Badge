@@ -5,10 +5,8 @@ export default class BoatSearchForm extends LightningElement {
     
     selectedBoatTypeId = '';
     
-    // Private
     error = undefined;
     
-    // Needs explicit track due to nested data
     @track
     searchOptions;
     
